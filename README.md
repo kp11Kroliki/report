@@ -2,7 +2,23 @@
 2. ссылка на макет Абанова Мария
 
 
-back pantyushin
-draw io 
+
+
+
+
+
+
+
+
+
+
+
+
+BACKEND PANTYUSHIN
+draw io: 
 
 ![Диаграмма без названия drawio-2](https://github.com/user-attachments/assets/6fe76060-f1ff-4124-b6a5-e5ad2a532b8d)
+
+
+
+mockaAPI: **https://6788ea4c2c874e66b7d6d914.mockapi.io/task**
