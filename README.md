@@ -3,4 +3,6 @@
 
 
 back pantyushin
-draw io ![Диаграмма без названия drawio](https://github.com/user-attachments/assets/02c7afeb-ad0c-4262-942e-120b4ada2b4d)
+draw io 
+
+![Диаграмма без названия drawio-2](https://github.com/user-attachments/assets/6fe76060-f1ff-4124-b6a5-e5ad2a532b8d)
